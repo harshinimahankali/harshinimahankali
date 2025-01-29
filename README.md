@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Harshini Mahankali</h1>  
-<h3 align="left">I'm currently working as a Cloud Trainee at NTTF</h3>
+<h1 align="left">Hi 👋, I'm 𝐇𝐚𝐫𝐬𝐡𝐢𝐧𝐢 𝐌𝐚𝐡𝐚𝐧𝐤𝐚𝐥𝐢</h1>  
+<h3 align="left">"𝐈 𝐚𝐦 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐬 𝐚 𝐂𝐥𝐨𝐮𝐝 𝐓𝐫𝐚𝐢𝐧𝐞𝐞 𝐚𝐭 𝐍𝐓𝐓𝐅."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
