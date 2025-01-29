@@ -3,16 +3,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishnua87141" target="blank">
+<a href="https://x.com/Harshuchowdary1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnuvemuri/" target="blank">
+<a href="https://www.linkedin.com/in/harshini-mahankali-a96a71257/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://fb.com/https://www.facebook.com/vishnu.vemuri.3/" target="blank">
+<a href="https://www.facebook.com/harshu.sudhakar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/vishnuvemuri/" target="blank">
+<a href="https://www.instagram.com/_harshini_sudhakar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </p>
