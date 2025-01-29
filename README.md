@@ -29,6 +29,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+
 <!--  Programming -->
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -39,6 +40,8 @@
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+
 <!-- Back-End -->
   <!-- My Sql -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -58,6 +61,7 @@
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+
     
 <!-- Cloud -->
   <!-- AWS -->
