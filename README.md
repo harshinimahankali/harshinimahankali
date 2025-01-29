@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Harshini Mahankali</h1>  
 <h3 align="left">I'm currently working as a Cloud Trainee at NTTF</h3>
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishnua87141" target="blank">
@@ -38,8 +36,6 @@
   </a>
 </p>
 
----
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -52,8 +48,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
 </p>
-
----
 
 <h3 align="left">Back-End Technologies:</h3>
 <p align="left">
@@ -77,16 +71,12 @@
   </a>
 </p>
 
----
-
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a>
 </p>
-
----
 
 <h3 align="left">Cloud Technologies:</h3>
 <p align="left">
