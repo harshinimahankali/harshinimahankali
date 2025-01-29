@@ -19,8 +19,6 @@
 </a>
 </p>
 
----
-
 <h3 align="left">Front-End Technologies:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
